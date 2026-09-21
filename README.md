@@ -4,8 +4,7 @@
 Exploratory data analysis on the Titanic passenger dataset (Kaggle), 
 examining what factors were associated with higher survival odds.
 
-Roadmap project: [PASTE YOUR COPIED PROJECT URL HERE]
-
+Roadmap project: https://roadmap.sh/projects/titanic-eda-python
 ## Question
 What kind of passengers were more likely to survive?
 
